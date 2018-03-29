@@ -1,13 +1,13 @@
 ## Maven使用入门 ##
 
-3.1 ### 编写POM ###  
+3.1  ### 编写POM ###  
 __Maven项目的核心是pom.xml__ 
 
-POM(Project Object Model,项目对象模型)
-作用：
-	- 定义了项目的基本信息
-	- 描述项目如何构建
-	- 声明项目依赖
+POM(Project Object Model,项目对象模型)  
+作用：  
+- 定义了项目的基本信息
+- 描述项目如何构建
+- 声明项目依赖
 <!--  -->
 <project>
 
