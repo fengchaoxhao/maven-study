@@ -89,3 +89,4 @@
 	Maven2运行：
 	$mvn org.apache.maven.plugins:maven-archetype-plugin:2.0-alpha-5:generate
 	```
+	[maven-archetype-plugin官方使用文档](http://maven.apache.org/archetype/maven-archetype-plugin/generate-mojo.html "")
